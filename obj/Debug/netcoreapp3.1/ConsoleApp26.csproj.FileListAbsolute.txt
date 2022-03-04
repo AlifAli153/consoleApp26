@@ -4,7 +4,6 @@ C:\Users\HP\source\repos\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.runti
 C:\Users\HP\source\repos\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.runtimeconfig.dev.json
 C:\Users\HP\source\repos\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.dll
 C:\Users\HP\source\repos\ConsoleApp26\bin\Debug\netcoreapp3.1\ConsoleApp26.pdb
-C:\Users\HP\source\repos\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.csproj.AssemblyReference.cache
 C:\Users\HP\source\repos\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\HP\source\repos\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.AssemblyInfoInputs.cache
 C:\Users\HP\source\repos\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.AssemblyInfo.cs
@@ -12,3 +11,4 @@ C:\Users\HP\source\repos\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.cspro
 C:\Users\HP\source\repos\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.dll
 C:\Users\HP\source\repos\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.pdb
 C:\Users\HP\source\repos\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.genruntimeconfig.cache
+C:\Users\HP\source\repos\ConsoleApp26\obj\Debug\netcoreapp3.1\ConsoleApp26.csproj.AssemblyReference.cache

@@ -2,21 +2,21 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp26.Student_classi
+namespace ConsoleApp26.Models
 {
-    internal class Student
+    public class Student
     {
-        public string Name;
+        
         public string FullName;
         public int GroupNo;
         public bool Students;
 
-        public Student(string name,string FullName,int groupno)
+        public Student(string FullName,int groupno)
         {
-            Name = name;
+            
             FullName = FullName;
             GroupNo = groupno;
-            
+                
         } 
     } 
 

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp26.Enums
 {
-     enum Category
+     public enum Category
      {
         programing = 1,
         Desing,
