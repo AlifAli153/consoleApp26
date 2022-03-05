@@ -9,7 +9,7 @@ namespace ConsoleApp26.Models
         
         public string FullName;
         public int GroupNo;
-        public bool Students;
+        public bool Zemanet;
 
         public Student(string FullName,int groupno)
         {

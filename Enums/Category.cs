@@ -6,7 +6,7 @@ namespace ConsoleApp26.Enums
 {
      public enum Category
      {
-        programing = 1,
+        Programing = 1,
         Desing,
         System_Administration,
      }

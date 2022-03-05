@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
 
 namespace ConsoleApp26.CourseService
 {
-    class CourceService 
+    class CourceServicecs
     {
         private List<CourseGroup> _groups = new List<CourseGroup>();
         public List<CourseGroup> Groups => _groups;
