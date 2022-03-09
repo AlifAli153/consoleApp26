@@ -28,6 +28,8 @@ namespace ConsoleApp26
                 switch (strSelection)
                 {
                     case "1":
+                        courseServicecs.CreateGroup(Category cat,isonline,limit);
+                        break;
                     default:
                         break;
                 }

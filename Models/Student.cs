@@ -17,6 +17,7 @@ namespace ConsoleApp26.Models
             FullName = FullName;
             GroupNo = groupno;
                 
+
         } 
     } 
 

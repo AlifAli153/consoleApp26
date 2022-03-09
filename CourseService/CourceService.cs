@@ -12,6 +12,7 @@ namespace ConsoleApp26.CourseService
     {
         private List<CourseGroup> _groups = new List<CourseGroup>();
         public List<CourseGroup> Groups => _groups;
+        public List<Student> Students = new List<Student>();
         public Category category;
         public void AllStudentList()
         {
@@ -20,11 +21,15 @@ namespace ConsoleApp26.CourseService
         public void CreatStudent()
         {
             foreach (var group in Groups) ;
+            Students.Add(student);
+            return Student;
         }
         public CourseGroup CreateGroup(Category cat , bool isonline , int limit)
         {
             CourseGroup group = new CourseGroup(cat, isonline, limit);
+            Groups.Add(group);
             return group;
+
         }
     }
 }
