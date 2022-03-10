@@ -19,13 +19,43 @@ namespace ConsoleApp26.Models
 
 
 
-        public CourseGroup(Category category, bool isOnline, int limit  )
+        public CourseGroup(Category category, bool isOnline, int limit)
         {
-            Cat = category;
-            IsOnline = isOnline;
-            Limit = limit;
-            No = No;
+            switch (category)
+            {
+                case Category.Programing:
+                    No = $"P-{count}";
+                    break;
+                case Category.Desing:
+                    No = $"D-{count}";
+                    break;
+                case Category.System_Administration:
+                    No = $"SA-{count}";
+                    break;
+                    default:
+                    break;
+                    category = category;
+                    isOnline = isOnline;
+                    limit = limit;
+                    if(IsOnline)
+                    {
+                        Limit = 15;
+
+                    }
+                    else
+                    {
+                        Limit = 10;
+                    }
+
+
+            }
         }
+        
+            
+
+
+                        
+        
 
     }
 

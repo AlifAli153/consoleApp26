@@ -20,26 +20,6 @@ namespace ConsoleApp26
                 Console.WriteLine("0.Exit");
                 string strSelection = Console.ReadLine();
                 bool result = int.TryParse(strSelection, out selection);
-
-            
-
-            do
-            {
-                switch (strSelection)
-                {
-                    case "1":
-                        courseServicecs.CreateGroup(Category cat,isonline,limit);
-                        break;
-                    default:
-                        break;
-                }
-
-            } while (true);
-            
-                
-                        
-
-                
             
         }
     }
